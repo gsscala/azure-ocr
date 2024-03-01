@@ -7,4 +7,4 @@ In this project, I used the Optical Character Recognition service available in A
 
 ### Conclusion
 
-The takeaway is that the OCR service in Azure is a fast, mostly accurate way to process text in images. It is not perfectly reliable, which means further adjustments may be needed in the case of images which are not ideal for reading text, such as the third example.
+The takeaway is that the OCR service in Azure is a fast, mostly accurate way to process text in images. It is not perfectly reliable, which means further adjustments may be needed in the case of images which are not ideal for reading text, such as the third example. Check out the [output files](https://github.com/gsscala/azure-ocr/tree/main/output)!
